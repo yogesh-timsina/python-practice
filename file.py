@@ -1,0 +1,6 @@
+f=open('myfile2.txt','w')
+f.write("hello yogesh how are you?")
+f=open('myfile2.txt',)
+text=f.read()
+print(text)
+f.close()
